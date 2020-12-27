@@ -1,16 +1,17 @@
-### Hi there 👋
 
 <!--
 **EliveltonSouzaDev/EliveltonSouzaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá 👋, eu sou o Elivelton! :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EliveltonSouzaDev)](https://github.com/EliveltonSouzaDev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliveltonsouza12/)](https://www.linkedin.com/in/eliveltonsouza12/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/veltonsouza)](https://twitter.com/veltonsouza)
+
+
+### Sobre mim
+Sou estudante de Desenvolvimento Web Full Stack 💻 na escola Resilia Educação, onde tenho aprendido📚 tecnologias como HTML, CSS e Javascript e também densenvolvendo e praticando as Soft-skills, tais como, gestão de tempo⌛, criaçãos de novos hábitos🚴,autoconhecimento📖 e produtividade📈, para assim me tornar um profissional completo.
+
+- Obrigado pela visita!
+
+- volte sempre 🙂
