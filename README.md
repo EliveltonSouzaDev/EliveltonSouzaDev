@@ -6,7 +6,7 @@
 
 
 ### Sobre mim
-Sou estudante de Desenvolvimento Web Full Stack 💻 na escola Resilia Educação, onde tenho aprendido📚 tecnologias como HTML, CSS e Javascript e também densenvolvendo e praticando as Soft-skills, tais como, gestão de tempo⌛, criaçãos de novos hábitos🚴,autoconhecimento📖 e produtividade📈, para assim me tornar um profissional completo.
+Sou estudante de Desenvolvimento Web Full Stack 💻 na escola Resilia Educação, onde tenho aprendido📚 tecnologias como HTML, CSS e Javascript e também densenvolvendo e praticando as Soft-Skills, tais como, gestão de tempo⌛, criaçãos de novos hábitos🚴,autoconhecimento📖 e produtividade📈, para assim me tornar um profissional completo.
 
 - Obrigado pela visita!
 
