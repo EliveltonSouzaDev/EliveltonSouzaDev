@@ -1,5 +1,6 @@
 ## Olá 👋, eu sou o Elivelton! 😀	
 
+![](https://komarev.com/ghpvc/?username=EliveltonSouzaDev&color=006bed)
 
 
 ### Resumo
