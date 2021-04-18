@@ -7,8 +7,6 @@
 - 💼 &nbsp; Buscando oportunidade de desenvolvedor Web Full-Stack Jr.
 - 🌱 &nbsp; Aprendendo mais sobre Node.js e React.js.
 
-<br/>
-
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -40,10 +38,6 @@
 <br/>
 
 
-
-<a href="https://github.com/EliveltonSouzaDev/EliveltonSouzaDev/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltonSouzaDev&layout=compact" />
-</a>
 <a href="https://github.com/EliveltonSouzaDev/EliveltonSouzaDev/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliveltonSouzaDev&show_icons=true&theme=dark" />
 </a>
