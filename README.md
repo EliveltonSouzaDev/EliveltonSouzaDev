@@ -17,6 +17,8 @@ Sou formado em Engenharia Civil e estou em transição para área de técnologia
 </a>
 
 
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
 <p align="left">
  
   <a href="#" alt="Linkedin">
@@ -30,6 +32,5 @@ Sou formado em Engenharia Civil e estou em transição para área de técnologia
 </p>  
 
 
-- Obrigado pela visita!
+- Obrigado pela visita e volte sempre!
 
-- volte sempre 🙂
