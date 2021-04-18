@@ -1,10 +1,12 @@
 ## Olá 👋, eu sou o Elivelton! 😀	
 
+<h3> :man: &nbsp;Sobre mim </h3>
 
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando Desenvolvimento Web Full-Stack na <a href="https://www.resilia.work/">Resilia Educação</a>.
+- 💼 &nbsp; Buscando oportunidade de desenvolvedor Web Full-Stack Jr.
+- 🌱 &nbsp; Aprendendo mais sobre Node.js e React.js.
 
-### Resumo
-
-Sou formado em Engenharia Civil e estou em transição para área de técnologia, atualmente estou estudando desenvolvimento Web Full- Stack e soft-skills na Resilia Educação e Alura, buscando oportunidades na área como front-end, tenho feitos alguns projetos que estão aqui no Github, com uso de tecnologias como HTML, CSS, Javascript, Bootstrap e Git e as Soft-Skills, tais como, gestão de tempo⌛, criaçãos de novos hábitos🚴,autoconhecimento📖 e produtividade📈, Scrum e Kanban para assim me tornar um profissional completo. busco oportunidades de front-end jr.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -45,6 +47,8 @@ Sou formado em Engenharia Civil e estou em transição para área de técnologia
 <a href="https://github.com/EliveltonSouzaDev/EliveltonSouzaDev/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliveltonSouzaDev&show_icons=true&theme=dark" />
 </a>
+
+<br/>
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
