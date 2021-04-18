@@ -2,7 +2,6 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Desenvolvimento Web Full-Stack na <a href="https://www.resilia.work/">Resilia Educação</a>.
 - 💼 &nbsp; Buscando oportunidade de desenvolvedor Web Full-Stack Jr.
 - 🌱 &nbsp; Aprendendo mais sobre Node.js e React.js.
