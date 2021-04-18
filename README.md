@@ -44,7 +44,6 @@
 <a href="https://github.com/EliveltonSouzaDev/EliveltonSouzaDev/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltonSouzaDev&layout=compact" />
 </a>
-
 <a href="https://github.com/EliveltonSouzaDev/EliveltonSouzaDev/blob/main/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliveltonSouzaDev&show_icons=true&theme=dark" />
 </a>
@@ -66,7 +65,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-<br/>
 
 - Obrigado pela visita e volte sempre!
 
