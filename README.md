@@ -12,7 +12,12 @@ Sou formado em Engenharia Civil e estou em transição para área de técnologia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltonSouzaDev&layout=compact)](https://github.com/EliveltonSouzaDev/EliveltonSouzaDev/blob/main/README.md) ![Elivelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliveltonSouzaDev&show_icons=true&theme=dark)
 
-
+<a href="https://github.com/EliveltonSouzaDev/EliveltonSouzaDev/blob/main/README.md">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltonSouzaDev&layout=compact" />
+</a>
+<a href="https://github.com/EliveltonSouzaDev/EliveltonSouzaDev/blob/main/README.md">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliveltonSouzaDev&show_icons=true&theme=dark" />
+</a>
 
 
 - Obrigado pela visita!
