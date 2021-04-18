@@ -7,6 +7,7 @@
 - 💼 &nbsp; Buscando oportunidade de desenvolvedor Web Full-Stack Jr.
 - 🌱 &nbsp; Aprendendo mais sobre Node.js e React.js.
 
+<br/>
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -65,6 +66,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
+<br/>
 
 - Obrigado pela visita e volte sempre!
 
