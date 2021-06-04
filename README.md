@@ -17,7 +17,7 @@
   ![CSS](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-   ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+   ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 
 
 
