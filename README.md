@@ -17,6 +17,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+  ![Vue.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=vue)
   ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
    
