@@ -43,9 +43,6 @@
 
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliveltonSouzaDev&layout=compact&theme=dark)](https://github.com/EliveltonSouzaDev/github-readme-stats)
-
-
 <br/>
 
 
