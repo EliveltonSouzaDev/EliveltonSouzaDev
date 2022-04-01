@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Recentemente formado no curso de Desenvolvimento Web Full-Stack na <a href="https://www.resilia.work/">Resilia Educação</a>.
-- 💼 &nbsp; Desenvolvedor Front-end Jr.
+- 💼 &nbsp; Desenvolvedor Front-end na Zoox Smart Data.
 - 🌱 &nbsp; Aprendendo mais sobre Vue.js.
 
 
