@@ -4,6 +4,7 @@
 
 - 🎓 &nbsp; Recentemente formado no curso de Desenvolvimento Web Full-Stack na <a href="https://www.resilia.work/">Resilia Educação</a>.
 - 💼 &nbsp; Desenvolvedor Front-end na Zoox Smart Data.
+- Estudante de Análise e desenvolvimento de sistemas.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
