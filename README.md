@@ -1,13 +1,13 @@
-## Olá 👋, eu sou o Elivelton! 😀	
+## Hi 👋, I'm Elivelton! 😀	
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;About me</h3>
 
-- 🎓 &nbsp; Recentemente formado no curso de Desenvolvimento Web Full-Stack na <a href="https://www.resilia.work/">Resilia Educação</a>.
-- 💼 &nbsp; Desenvolvedor Front-end na Zoox Smart Data.
-- Estudante de Análise e desenvolvimento de sistemas.
+- 🎓 &nbsp; graduated at Bootcamp  Web Full-Stack at <a href="https://www.resilia.work/">Resilia Educação</a>.
+- 💼 &nbsp; Front-end developer at Zoox Smart Data.
+- Currently studying Analysis and systems development.
 
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp; Skills </h3>
 
 
 
@@ -51,7 +51,7 @@
 <br/>
 
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Find me: </h3> 
 
 <p align="left">
  
@@ -61,10 +61,8 @@
    <a href="https://twitter.com/veltonsouza" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/veltonsouza"/></a>
 
-  <a href="https://www.instagram.com/veltonsouza/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
 
 
-- Obrigado pela visita e volte sempre!
+
+- Thanks for visiting! 
 
