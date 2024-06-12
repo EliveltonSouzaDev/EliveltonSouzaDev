@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;About me</h3>
 
 - 🎓 &nbsp; graduated at Bootcamp  Web Full-Stack at <a href="https://www.resilia.work/">Resilia Educação</a>.
-- 💼 &nbsp; Front-end developer at Zoox Smart Data.
+- 💼 &nbsp; Full-stack developer at Zoox Smart Data.
 - Currently studying Analysis and systems development.
 
 
